@@ -1,4 +1,4 @@
-package hello;
+package org.devbox;
 
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;
